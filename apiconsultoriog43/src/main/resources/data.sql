@@ -1,0 +1,5 @@
+INSERT IGNORE INTO medico(id, nombre_medico, email_medico, celular_medico, especialidad_medico) VALUES(1, "Ramiro Pelaes","RamiroPelaes@consultorio.com", "3114527451", "Fisiatria"),
+                                                                                                  (2, "Monica Caceres","MonicaCaceres@consultorio.com", "3124527452", "Neurologia"),
+                                                                                                  (3, "Veronica Orozco","VeronicaOrozco@consultorio.com", "3134527453", "Medicina General"),
+                                                                                                  (4, "Elkin Ramirez","ElkinRamirez@consultorio.com", "3144527454", "Geriatria"),
+                                                                                                  (5, "Hector Nunez","HectorNunez@consultorio.com", "3154527455", "Ginecologia");
